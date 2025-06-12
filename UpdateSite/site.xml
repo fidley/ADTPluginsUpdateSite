@@ -9,7 +9,7 @@
    <feature url="features/com.abapblog.adt.extension.feature_1.0.8.202505112218.jar" id="com.abapblog.adt.extension.feature" version="1.0.8.202505112218">
       <category name="ADT Extensions"/>
    </feature>
-   <feature url="features/ADT_Classic_Outline_Feature_1.0.5.202506121554.jar" id="ADT_Classic_Outline_Feature" version="1.0.5.202506121554">
+   <feature url="features/ADT_Classic_Outline_Feature_1.0.5.202506121659.jar" id="ADT_Classic_Outline_Feature" version="1.0.5.202506121659">
       <category name="ADT Extensions"/>
    </feature>
    <category-def name="ABAP Favorites" label="ABAP Favorites"/>
